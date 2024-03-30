@@ -4,3 +4,4 @@ Comment for git revert 1
 Newline File1
 New file 1.1
 New file 1.2
+This is Stash Lecture, Change in File 1
