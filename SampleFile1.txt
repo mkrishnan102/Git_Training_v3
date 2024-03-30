@@ -1,3 +1,6 @@
 This is Sample File1
-
-1. You conveniently forget that 4 senior-most Supreme Court judges were forced to hold an unprecedented press conference and warn against "destruction of Democracy". That happened under your regime.
+You conveniently forget that 4 senior-most Supreme Court judges were forced to hold an unprecedented press conference and warn against "destruction of Democracy". That happened under your regime.
+Comment for git revert 1
+Newline File1
+New file 1.1
+New file 1.2
